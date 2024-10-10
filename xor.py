@@ -13,3 +13,4 @@ print("Зашифрованный текст:", encrypted)
 
 decrypted = xor_decipher(encrypted, key)
 print("Расшифрованный текст:", decrypted)
+
